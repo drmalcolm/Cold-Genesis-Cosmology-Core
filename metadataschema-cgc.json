@@ -1,7 +1,7 @@
-json{
+{
     "title": "Cold Genesis Cosmology: Analytical Solver and Emergent Metric Validation Package",
-    "doi": "10.5281/zenodo.11223344",
-    "description": "This repository provides the reproducible core computational framework for Cold Genesis Cosmology (CGC). It implements the symbolic Hilber tensor derivations of the emergent energy-momentum tensor T_mu_nu for a phase-evolving macroscopic quantum fluid order parameter. Additionally, it contains the numerical ordinary differential equation (ODE) solver for tracking the harmonic evolution of cosmic acoustic peak structures under discrete spatial cavity boundary conditions (k_n = n*pi/L). It explicitly validates the suppression of the Rayleigh-Jeans divergence via the quantum mechanical Bogoliubov dispersion relation.",
+    "doi": "10.5281/zenodo.20361791",
+    "description": "This repository provides the reproducible core computational framework for Cold Genesis Cosmology (CGC). It implements the symbolic Hilber tensor derivations of the emergent energy[...]",
     "license": "MIT",
     "creators": [
         {
