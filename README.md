@@ -5,7 +5,7 @@ An Effective Superfluid-inspired Cosmological Framework
 [![DOI](https://zenodo.org)](https://doi.org/10.5281/zenodo.20361791)
 [![License: MIT](https://shields.io)](https://opensource.org)
 
-This repository hosts the official, open-source computational verification package for **Cold Genesis Cosmology: A Superfluid, Thermodynamic Origin of Cosmic Structure**. This suite is provided as a supplementary open-data matrix in compliance with Classical and Quantum Gravity reproducibility mandates.
+This repository hosts the official, open-source computational verification package for **Cold Genesis Cosmology: A Superfluid, Thermodynamic Origin of Cosmic Structure**. This suite is provided as a supplementary open-data matrix.
 
 ---
 
