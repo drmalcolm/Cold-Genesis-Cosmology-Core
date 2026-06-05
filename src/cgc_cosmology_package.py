@@ -4,7 +4,7 @@ Cold Genesis Cosmology (CGC) Core Validation Package
 =====================================================
 Author: Dana R. Malcolm
 License: MIT License
-Repository Tracking: APS Open Science Supplementary Data Matrix
+Repository Tracking: Open Access Supplementary Data Matrix
 
 This package provides a two-fold validation engine for CGC:
 1. Symbolic Tensor Validation: Proves that a non-static fluid phase gradient
