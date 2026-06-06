@@ -1,4 +1,4 @@
-# Cold-Genesis-Cosmolgy-Core
+# Cold-Genesis-Cosmology-Core
 An Effective Superfluid-inspired Cosmological Framework
 # Cold Genesis Cosmology (CGC) Simulation Core
 
