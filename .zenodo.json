@@ -1,0 +1,31 @@
+json{
+  "title": "Cold Genesis Cosmology: Analytical Solver and Emergent Metric Validation Package",
+  "description": "This repository provides the reproducible core computational framework for Cold Genesis Cosmology (CGC). It implements the symbolic metric tensor derivations for the emergent Painlevé-Gullstrand acoustic metric, validates Parameterized Post-Newtonian (PPN) gamma compliance, and numerically solves the phase-shifted acoustic horizon projections for cosmic microwave background (CMB) multipole peaks.",
+  "license": "MIT",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Malcolm, Dana R.",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-0919-5442"
+    }
+  ],
+  "keywords": [
+    "Cold Genesis Cosmology",
+    "Analogue Gravity",
+    "Emergent Gravity",
+    "Superfluid Universe",
+    "Cosmic Microwave Background",
+    "Bogoliubov Dispersion"
+  ],
+  "publication_date": "2026-06-05",
+  "access_right": "open",
+  "version": "v1.0.1",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "arXiv:2605.xxxxx",
+      "scheme": "arxiv"
+    }
+  ]
+}
