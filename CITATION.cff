@@ -1,0 +1,29 @@
+yamlcff-version: 1.2.0
+title: "Cold Genesis Cosmology: Analytical Solver and Emergent Metric Validation Package"
+message: "If you build upon this computational engine or reference these fluid-gravitational derivations, please cite this software using the metadata below."
+type: software
+authors:
+  - given-names: Dana R.
+    family-names: Malcolm
+    affiliation: Independent Researcher
+    orcid: "https://orcid.org"
+repository-code: "https://github.com"
+url: "https://github.com"
+doi: 10.5281/zenodo.20564508
+abstract: >-
+  This repository provides the official, open-source computational verification
+  package for Cold Genesis Cosmology (CGC). It implements symbolic metric tensor
+  derivations for the emergent Painlevé-Gullstrand acoustic metric, validates
+  Parameterized Post-Newtonian (PPN) gamma compliance, and numerically solves the
+  phase-shifted acoustic horizon projections for cosmic microwave background (CMB)
+  multipole peaks.
+keywords:
+  - "Cold Genesis Cosmology"
+  - "Analogue Gravity"
+  - "Emergent Gravity"
+  - "Superfluid Universe"
+  - "Cosmic Microwave Background"
+  - "Bogoliubov Dispersion"
+license: MIT
+version: v1.0.1
+date-released: "2026-06-05"
