@@ -107,7 +107,7 @@ SYSTEM STATUS: ALL MODULES COMPLETED SUCCESSFULLY
 
 * **Principal Investigator**: Dana R. Malcolm, Independent Researcher  
 * **ORCID iD**: [0009-0009-0919-5442](https://orcid.org)  
-* **Software Version**: v1.0.0  
+* **Software Version**: v1.0.1  
 * **License**: MIT Open Source License  
 
 If you build upon this computational engine or reference these fluid-gravitational derivations in academic literature, please cite the framework using the following persistent Zenodo profile:
