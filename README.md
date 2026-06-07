@@ -1,9 +1,9 @@
-markdown# Cold-Genesis-Cosmology-Core
+# Cold-Genesis-Cosmology-Core
 
 An Effective Superfluid-inspired Cosmological Framework
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20564508.svg)](https://doi.org/10.5281/zenodo.20564508)
-[![License: MIT](https://shields.io)](./LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
 This repository hosts the official, open-source source code and replication data for **Cold Genesis Cosmology: A Superfluid, Thermodynamic Origin of Cosmic Structure**. 
 
@@ -26,7 +26,7 @@ To guarantee exact reproducibility, all library versions are pinned. Follow thes
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/drmalcolm/Cold-Genesis-Cosmology-Core.git
    cd cold-genesis-cosmology-core
    ```
 
@@ -106,7 +106,7 @@ SYSTEM STATUS: ALL MODULES COMPLETED SUCCESSFULLY
 ---
 
 * **Principal Investigator**: Dana R. Malcolm, Independent Researcher  
-* **ORCID iD**: [0009-0009-0919-5442](https://orcid.org)  
+* **ORCID iD**: [0009-0009-0919-5442](https://orcid.org/0009-0009-0919-5442)  
 * **Software Version**: v1.0.1  
 * **License**: MIT Open Source License  
 
@@ -119,7 +119,7 @@ If you build upon this computational engine or reference these fluid-gravitation
   month        = may,
   year         = 2026,
   publisher    = {Zenodo},
-  version      = {v1.0.0},
+  version      = {v1.0.1},
   doi          = {10.5281/zenodo.20564508},
   url          = {https://doi.org/10.5281/zenodo.20564508}
 }
