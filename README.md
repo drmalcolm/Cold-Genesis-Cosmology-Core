@@ -2,7 +2,7 @@ markdown# Cold-Genesis-Cosmology-Core
 
 An Effective Superfluid-inspired Cosmological Framework
 
-[![DOI](https://zenodo.org)](https://doi.org)
+[![DOI](https://zenodo.org)]([https://doi.org](https://doi.org/10.5281/zenodo.20564508))
 [![License: MIT](https://shields.io)](https://opensource.org)
 
 This repository hosts the official, open-source source code and replication data for **Cold Genesis Cosmology: A Superfluid, Thermodynamic Origin of Cosmic Structure**. 
