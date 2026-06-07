@@ -2,7 +2,7 @@ markdown# Cold-Genesis-Cosmology-Core
 
 An Effective Superfluid-inspired Cosmological Framework
 
-[![DOI](https://zenodo.org)](https://doi.org)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20564508.svg)](https://doi.org/10.5281/zenodo.20564508)
 [![License: MIT](https://shields.io)](./LICENSE)
 
 This repository hosts the official, open-source source code and replication data for **Cold Genesis Cosmology: A Superfluid, Thermodynamic Origin of Cosmic Structure**. 
@@ -11,11 +11,11 @@ This repository hosts the official, open-source source code and replication data
 
 ## 🌌 Overview
 
-Cold Genesis Cosmology (CGC) is an alternative fluid-gravitational framework that replaces cosmic inflation and particle dark matter with the non-equilibrium thermodynamic evolution of a macroscopic quantum substrate. The observable universe emerges as a localized, phase-evolving bubble embedded within a boundless, ultra-low-temperature superfluid medium (T → 0 K).
+Cold Genesis Cosmology (CGC) is an alternative fluid-gravitational framework that replaces cosmic inflation and particle dark matter with the non-equilibrium thermodynamic evolution of a macroscopic q[...]
 
-By parameterizing the substrate using a macroscopic order parameter, \(\Psi = \sqrt{\rho}\exp(i\theta)\), this package contains the validation scripts required to verify two primary pillars of the theory:
-1. **Symbolic Acoustic Metric Mapping**: Computes an emergent Painlevé-Gullstrand acoustic metric from a non-static fluid phase gradient, testing against the Parameterized Post-Newtonian (PPN) limit of γ = 1.
-2. **Harmonic Acoustic Engine Integration**: Computes the evolution of primordial causal sound waves under discrete geometric cavity boundary conditions (\(k_n = n\pi/L\)), projecting spatial density fluctuations into angular CMB multipole peaks (\(\ell_n\)).
+By parameterizing the substrate using a macroscopic order parameter, \(\Psi = \sqrt{\rho}\exp(i\theta)\), this package contains the validation scripts required to verify two primary pillars of the the[...]
+1. **Symbolic Acoustic Metric Mapping**: Computes an emergent Painlevé-Gullstrand acoustic metric from a non-static fluid phase gradient, testing against the Parameterized Post-Newtonian (PPN) limit [...]
+2. **Harmonic Acoustic Engine Integration**: Computes the evolution of primordial causal sound waves under discrete geometric cavity boundary conditions (\(k_n = n\pi/L\)), projecting spatial density [...]
 3. **Ultraviolet Stability**: Demonstrates the suppression of the classical Rayleigh-Jeans divergence via the quantum mechanical Bogoliubov dispersion relation.
 
 ---
@@ -46,7 +46,7 @@ To guarantee exact reproducibility, all library versions are pinned. Follow thes
 
 ## 🚀 Running the Verification Code
 
-The primary runtime script integrates both symbolic metric tensor checking and the numerical ordinary differential equation (ODE) solver for the acoustic peak configurations. Execute the pipeline directly from your terminal:
+The primary runtime script integrates both symbolic metric tensor checking and the numerical ordinary differential equation (ODE) solver for the acoustic peak configurations. Execute the pipeline dire[...]
 
 ```bash
 python src/cgc_cosmology_package.py
@@ -121,6 +121,6 @@ If you build upon this computational engine or reference these fluid-gravitation
   publisher    = {Zenodo},
   version      = {v1.0.0},
   doi          = {10.5281/zenodo.20564508},
-  url          = {https://doi.org}
+  url          = {https://doi.org/10.5281/zenodo.20564508}
 }
 ```
