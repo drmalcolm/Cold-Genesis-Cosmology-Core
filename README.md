@@ -1,6 +1,6 @@
 Cold Genesis Cosmology (CGC) Solver & Metric Validator
 
-[![CGC Pipeline Verification](https://github.com)](https://github.com)
+[![CGC Pipeline Verification](https://github.com/drmalcolm)](https://github.com/drmalcolm/Cold-Genesis-Cosmology-Core)
 [![DOI](https://zenodo.org)](https://doi.org)
 [![License: MIT](https://shields.io)](https://opensource.org)
 
