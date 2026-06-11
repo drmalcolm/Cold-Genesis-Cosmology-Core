@@ -1,7 +1,7 @@
 Cold Genesis Cosmology (CGC) Solver & Metric Validator
 
 [![CGC Pipeline Verification](https://github.com/drmalcolm)](https://github.com/drmalcolm/Cold-Genesis-Cosmology-Core)
-[![DOI](https://zenodo.org)](https://doi.org)
+[![DOI]([https://zenodo.org)](https://doi.org](https://doi.org/10.5281/zenodo.20564508))
 [![License: MIT](https://shields.io)](https://opensource.org)
 
 This repository provides the reproducible core computational framework for **Cold Genesis Cosmology (CGC)**, as presented in the article *"Cold Genesis Cosmology: A Superfluid, Thermodynamic Origin of Cosmic Structure"*. 
